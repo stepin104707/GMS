@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602073421 source:c:\users\sanjana gs\desktop\practice_programs\grades_system\sample\main.c
+	<stdio.h>
+	<conio.h>
+
+1602073421 source:c:\users\sanjana gs\desktop\practice_programs\grades_system\final_miniproj\main.c
+	<stdio.h>
+	<conio.h>
+
